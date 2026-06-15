@@ -2,9 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
+from pathlib import Path
 
 # Load Model
-model = joblib.load("models/loan_model.pkl")
+MODEL_PATH = Path(__file__).parent.parent / "models" / "loan_model.pkl"
+model = joblib.load(MODEL_PATH)
 
 # Page Config
 st.set_page_config(

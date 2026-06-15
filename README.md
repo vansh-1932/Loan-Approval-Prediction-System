@@ -7,6 +7,13 @@ This project is an end-to-end Machine Learning application that predicts whether
 The project includes data preprocessing, feature engineering, model training, model evaluation, and a Streamlit web application for real-time predictions.
 
 ---
+## Live Demo
+
+🔗 https://loan-approval-prediction-system-ydnh5dy6jxn5mj5eqgsvx2.streamlit.app/
+
+## GitHub Repository
+
+🔗 https://github.com/vansh-1932/Loan-Approval-Prediction-System
 
 ## 🚀 Features
 

@@ -126,17 +126,14 @@ streamlit run frontend/app.py
 
 ## 📸 Screenshots
 
-### Training Result
-
-See: reports/training_result.png
+### Training Results
+![Training Results](reports/training_result.png)
 
 ### Approved Prediction
-
-See: reports/approved.png
+![Approved Prediction](reports/approved.png)
 
 ### Rejected Prediction
-
-See: reports/rejected.png
+![Rejected Prediction](reports/rejected.png)
 
 ---
 
